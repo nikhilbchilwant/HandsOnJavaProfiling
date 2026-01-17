@@ -1,4 +1,4 @@
-# OrderFlow Performance Lab
+# HandsOn Java Profiling
 
 A hands-on Java performance tuning learning project. Learn to identify and fix performance issues by measuring, hypothesizing, and iterating.
 

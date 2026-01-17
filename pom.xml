@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>OrderFlow Performance Lab</name>
+    <name>HandsOn Java Profiling</name>
     <description>Hands-on Java performance tuning learning project</description>
 
     <modules>
